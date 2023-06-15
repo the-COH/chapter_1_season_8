@@ -15,7 +15,7 @@ In support of Canto’s Free Public Infrastructure – a framework that advocate
 ## **Bounties & Building Categories**
 Builders will compete for prize shares in a 300,000 CANTO rewards pool.
 
-Along with a change in building categories, this season rewards builders who launch on mainnet prior to submission close with doubled prize shares.
+Along with a change in building categories, this season rewards winners who launch on mainnet prior to submission close with doubled prize shares.
 
 * **Overall Winner(s)**
 Up to 5 remarkable projects will be awarded as judges see fit. 
