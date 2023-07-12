@@ -76,7 +76,7 @@ The COH is pleased to announce the following judges for Chapter 1, Season 8:
 The Elevator is a project pitch session: your chance to pitch your idea(s) to fellow builders and Canto mentors. Get direct feedback, learn about potential projects, and grow your team.  
 **7/6** – [**Midpoint Check.**](https://form.jotform.com/231644720339152) Share Project Title, Summary, & Progress Update w COH organizers.  
 **7/21** – **Mainnet Launch Due.** To qualify for 2x prize shares, projects must be launched on Canto mainnet by 11:59pm UTC.  
-**7/21** – [**Projects Due.** ](https://form.jotform.com/231094957672163) Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
+**7/21** – [**Projects Due.** ](https://form.jotform.com/231645265715155) Must submit pre-recorded video and PR to this repo by 11:59pm UTC.  
 **7/27**  – [**Judging Ceremony**](https://www.youtube.com/live/azgSixRtIsM?feature=share) Thursday, July 27, 1pm ET/ 10am PT.  
 **7/31** (TBD) – Winners Announced  
 
