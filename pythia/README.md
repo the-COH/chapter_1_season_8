@@ -15,5 +15,6 @@ Pythia provides cryptographically secure and verifiable randomness. It focuses o
 ## Links
 
 - Website: https://pythia.solutions/
+- Github: https://github.com/pythia-solutions/pythia
 - Twitter: [@pythialab](https://twitter.com/pythialab)
 
