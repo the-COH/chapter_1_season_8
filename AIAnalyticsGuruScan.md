@@ -18,3 +18,7 @@ what's in there, figuring out trends and insights.
 [block-explorer Github](https://github.com/dex-guru/block-explorer)
 
 [canto scan](https://canto.dex.guru)
+[
+[charts and statistics](https://canto.dex.guru/charts)
+
+[address page analytics tab](https://canto-stage.dexguru.biz/address/0xe93685f3bba03016f02bd1828badd6195988d950?tab=analytics)
