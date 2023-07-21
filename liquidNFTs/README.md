@@ -178,11 +178,11 @@ Through its revolutionary features, liquidNFTs actively contributes to the evolu
 ## Feedback
 
 
-If you have any feedback / suggestions, please reach out to us at [liquidNFTs@nfts2me.com](mailto:liquidNFTs@agsola.com)
+If you have any feedback / suggestions, please reach out to us at [liquidNFTs@agsola.com](mailto:liquidNFTs@agsola.com)
 
   
 ## Follow us
 
-* [Website](https://nfts2me.com/)
-* [Twitter](https://twitter.com/NFTs2Me)
+* [Website](https://liquidnfts.site/)
+* [Twitter](https://twitter.com/liquidnfts_site)
 
