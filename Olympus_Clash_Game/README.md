@@ -7,4 +7,4 @@ Hi Judges, this is Daglinia, the creator of Olympus Class NFT game. Olympus Clas
 ## Links
 
 * **Website** – (https://olympusclash.io/)
-* **Codebase** – (https://github.com/daglinia/OlympuClashWebApp)
+* **Codebase** – (https://github.com/daglinia/OlympusClashGame)
