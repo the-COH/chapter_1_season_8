@@ -11,3 +11,6 @@ Encrypto is a non-custodial solution that uses stealth addresses which enables u
 
 ### 💪 Deployed Contract Addresses (Canto Testnet)
 - Registry Contract: [0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f](https://testnet.tuber.build/address/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f)
+
+### 💻 Github
+- [Github](https://github.com/Mystical94/encrypto)
