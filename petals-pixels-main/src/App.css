@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.app-title {
+  color: #1a73e8;
+  font-size: 2em;
+}
+
+.app-poem {
+  color: #202124;
+  font-size: 1.2em;
+}
+
+.app-label {
+  display: block;
+  margin: 10px 0;
+}
+
+.app-select, .app-input {
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.app-location {
+  margin-top: 20px;
+  font-size: 1em;
+  font-style: italic;
+}
